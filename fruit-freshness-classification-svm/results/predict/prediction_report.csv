@@ -1,0 +1,11 @@
+Filename,Actual Label,Predicted Label,Confidence,Status
+translation_Screen Shot 2018-06-12 at 8.54.00 PM.png,rottenbanana,rottenbanana,100.00%,Correct
+saltandpepper_Screen Shot 2018-06-12 at 11.26.36 PM.png,rottenoranges,rottenoranges,99.90%,Correct
+rotated_by_75_Screen Shot 2018-06-12 at 8.50.47 PM.png,rottenbanana,rottenbanana,99.55%,Correct
+rotated_by_75_Screen Shot 2018-06-12 at 11.58.50 PM.png,freshoranges,rottenoranges,95.34%,Wrong
+translation_Screen Shot 2018-06-12 at 11.52.03 PM.png,freshoranges,freshoranges,100.00%,Correct
+vertical_flip_Screen Shot 2018-06-12 at 11.54.35 PM.png,freshoranges,freshoranges,99.62%,Correct
+rotated_by_30_Screen Shot 2018-06-08 at 5.05.06 PM.png,freshapples,freshapples,97.92%,Correct
+rotated_by_15_Screen Shot 2018-06-07 at 2.18.25 PM.png,rottenapples,rottenapples,96.70%,Correct
+rotated_by_60_Screen Shot 2018-06-07 at 2.43.54 PM.png,rottenapples,rottenapples,99.76%,Correct
+translation_Screen Shot 2018-06-07 at 2.35.21 PM.png,rottenapples,rottenapples,97.81%,Correct

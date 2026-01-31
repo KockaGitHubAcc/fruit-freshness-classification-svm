@@ -1,0 +1,18 @@
+HYPERPARAMETER TUNING LOG (Seed=42)
+=========================================
+
+Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'linear'}
+Accuracy (Eval Set): 96.15%
+Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Accuracy (Eval Set): 90.19%
+Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'linear'}
+Accuracy (Eval Set): 97.39%
+Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Accuracy (Eval Set): 95.46%
+Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'linear'}
+Accuracy (Eval Set): 96.70%
+Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+Accuracy (Eval Set): 98.03%
+
+WINNER: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+BEST ACCURACY: 98.03%
